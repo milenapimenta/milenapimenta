@@ -14,7 +14,6 @@
   <img align="center" alt="milenapimenta-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 <img align="center" alt="milenapimenta-Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
   
-<img align="center" alt="milenapimenta-Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg">
 <img align="center" alt="milenapimenta-Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg">
 <img align="center" alt="milenapimenta-Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg">
   
