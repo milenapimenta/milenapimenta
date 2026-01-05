@@ -1,6 +1,6 @@
 # Olá! Meu nome é Milena.
  <div>
-  <a target="_blank" href="https://www.linkedin.com/in/milena-pimenta-413974262/">
+  <a target="_blank" href="https://www.linkedin.com/in/milenapimenta">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=milenapimenta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milenapimenta&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
