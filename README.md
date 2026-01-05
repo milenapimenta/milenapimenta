@@ -13,6 +13,7 @@
   <img align="center" alt="milenapimenta-Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg">
   <img align="center" alt="milenapimenta-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="milenapimenta-Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
+  <img align="center" alt="milenapimenta-Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nest/nest-original-wordmark.svg">
   <img align="center" alt="milenapimenta-Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
   <img align="center" alt="milenapimenta-Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg">
   <img align="center" alt="milenapimenta-Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg">
