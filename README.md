@@ -1,4 +1,4 @@
-# 👋 Oi! Eu sou a Milena Pimenta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+# Oi! Eu sou a Milena Pimenta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 💻 Desenvolvedora **Full Stack** apaixonada por criar interfaces bonitas, funcionais e código bem organizado.  
 🚀 Curiosa por natureza, estou sempre aprendendo algo novo — principalmente no ecossistema **TypeScript / React / NestJS** e **PHP / Laravel**.  
