@@ -23,7 +23,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs,nestjs,php,laravel,prisma,mysql,postgres,redis,docker,npm" />
-  &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" height="45" alt="Swagger" />
 </p>
 
