@@ -22,7 +22,9 @@
 ## 🛠️ Tecnologias & Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs,nestjs,php,laravel,prisma,mysql,postgres,redis,docker,swagger,npm" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs,nestjs,php,laravel,prisma,mysql,postgres,redis,docker,npm" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" height="45" alt="Swagger" />
 </p>
 
 ---
@@ -39,7 +41,7 @@
 ## 💬 Vamos conversar?
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/milena-pimenta-413974262/" target="_blank">
+  <a href="https://www.linkedin.com/in/milenapimenta/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
   <a href="mailto:milena-pimenta@outlook.com">
@@ -57,5 +59,4 @@
 
 ✨ *“Código bom é aquele que alguém entende — inclusive você daqui a 6 meses.”*
 
-![Snake animation](https://github.com/milenapimenta/milenapimenta/blob/output/github-contribution-grid-snake.svg)
 
